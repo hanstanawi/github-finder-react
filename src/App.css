@@ -376,6 +376,14 @@ table th {
   margin-right: 0.6rem;
 }
 
+.navbar i {
+  margin-right: 0.6rem;
+}
+
+.navbar h1 {
+  font-weight: 500;
+}
+
 /* Mobile Styles */
 @media (max-width: 700px) {
   .hide-sm {
